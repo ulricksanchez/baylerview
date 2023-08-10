@@ -1,0 +1,7 @@
+
+/* HeroVideo Styling */
+
+.herovideo {
+  position: relative;
+  object-fit: cover;
+}
